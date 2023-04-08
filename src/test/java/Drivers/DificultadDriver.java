@@ -34,6 +34,9 @@ public class DificultadDriver {
 
         System.out.println(("\n------Driver de dificultad DIFICIL------\n"));
 
+
+        System.out.println("Creando una nueva branca y hacer merge");
+
         System.out.println("Dificultad Dificil:");
         System.out.println("Repetir color = " + dificil.isRepetirColor());
         System.out.println("Número de intentos = " + dificil.getNumeroIntentos());
